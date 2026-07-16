@@ -21,7 +21,7 @@ public class Greeter {
   
   public static void main(String args[]){
     
-	  System.out.println("Hello from Main Method and I did a github-weebhook for automatically build process and changed in trigger section !!!");
+	  System.out.println("I did a github-weebhook for automatically build process and changed in trigger section !!!");
   }
 	
 }
